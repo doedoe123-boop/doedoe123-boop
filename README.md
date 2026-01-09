@@ -1,5 +1,3 @@
-# README.md
-
 ## Hi, I'm Nelson 👋
 
 I'm a full-stack developer who enjoys building practical, maintainable web applications with a strong focus on backend logic and system reliability.
