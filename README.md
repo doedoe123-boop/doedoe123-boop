@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working on my fitness tracker app<br>📘 Noob programmer<br>💬 Ask me<br>💡 Interested on studying cybersecurity<br>🌟 ever heard of nonchalant co-worker? hah that's me
+💻 Currently working on some personal project<br>📘 Noob programmer<br>💬 Ask me<br>💡 Interested on studying cybersecurity<br>🌟 ever heard of nonchalant co-worker? hah that's me
 
 
 ## 🌐 Socials:
