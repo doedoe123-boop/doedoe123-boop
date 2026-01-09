@@ -64,7 +64,7 @@ Below are the types of systems and applications I have experience building:
 
 ## 🌐 Connect
 
-* LinkedIn: [https://www.linkedin.com/in/nelson-asumbrado-3049a2243](https://www.linkedin.com/in/nelson-asumbrado-3049a2243)
+* LinkedIn: [https://www.linkedin.com/in/nelson-asumbrado/](https://www.linkedin.com/in/nelson-asumbrado/)
 
 ---
 
